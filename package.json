@@ -1,11 +1,11 @@
 {
-  "name": "PORTFOLIO-PROJECT",
+  "name": "Portfolio-project-group-17",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/PORTFOLIO-PROJECT/",
+    "build": "vite build --base=/Portfolio-project-group-17/",
     "preview": "vite preview"
   },
   "devDependencies": {
