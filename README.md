@@ -51,14 +51,16 @@ Images are optimized for fast loading times.
 - Backend API: Portfolio API.
 
 **How to Use**
-1. Clone the repository.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NatalySheludko/portfolio-goit-team-project.git
 2. Install dependencies:
-   ```bash
-   npm install
+    ```bash
+    npm install
 3. Run the development server:
-   ```bash
-   npm run dev
+    ```bash
+    npm run dev
 4. Open the browser at:
-   ```bash
-   http://localhost:5173
+    ```bash
+    http://localhost:5173
    
